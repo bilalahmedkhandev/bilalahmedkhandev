@@ -1,17 +1,8 @@
 <!-- ==================== HERO / BANNER ==================== -->
 
-<div align="center">
+# Hi there, I'm Bilal Ahmed 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=BILAL%20AHMED%20KHAN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7AB07&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Crafting+Modern+UI%2FUX+Experiences" />
-
-</div>
-
+🚀 **Software Developer** | 💻 JavaScript, React, Node.js, MongoDb, Express, Next JS  | 🎨 UI/UX Enthusiast  
 ---
 
 
