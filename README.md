@@ -65,11 +65,11 @@
 
 <div align="center">
 
-<a href="https://your-live-project-link.com">
+<a href="https://bilaldotdev.com">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilalahmedkhandev&repo=your-repo-name&theme=radical" />
 </a>
 
-<a href="https://your-live-project-link.com">
+<a href="https://quranumrah.co.uk">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilalahmedkhandev&repo=your-second-repo&theme=radical" />
 </a>
 
