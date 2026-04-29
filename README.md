@@ -1,4 +1,33 @@
 <!-- ==================== HERO / BANNER ==================== -->
+🖥️ Developer Console
+bilal@dev:~$ npx bilal-profile
+
+> Initializing profile...
+
+const bilal = {
+  title: "Full-Stack MERN Engineer",
+  stack: ["React", "Next.js", "Node.js", "MongoDB"],
+
+  building: {
+    current: "Thoughts — a modern content platform",
+    focus: ["scalability", "performance", "clean architecture"]
+  },
+
+  exploring: ["TypeScript", "System Design", "Advanced Backend Patterns"],
+
+  mindset: [
+    "Ship fast, scale smart",
+    "Design matters as much as code",
+    "Think in systems, not components"
+  ],
+
+  availability: {
+    status: "Open",
+    roles: ["Freelance", "Remote", "Collaboration"]
+  }
+};
+
+> Profile loaded successfully 🚀
 
 <div align="center">
 
