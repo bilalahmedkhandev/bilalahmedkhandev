@@ -77,18 +77,6 @@
 
 ---
 
-## 🎥 3D / Visual Showcase
-
-<div align="center">
-
-<!-- 🔥 Replace this with your own Three.js export (GIF or hosted preview) -->
-
-<iframe src="https://eyes.nasa.gov/apps/solar-system/#/home" allowfullscreen ></iframe>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
