@@ -16,15 +16,32 @@
 
 ## 🚀 About Me
 
-```js
-const bilal = {
+export const developerProfile = {
+  name: "Bilal Ahmed",
   role: "MERN Stack Developer",
-  focus: ["Scalable Applications", "Modern UI/UX", "Performance Optimization"],
-  currentProject: "Thoughts (Modern Web App)",
-  learning: ["Next.js", "TypeScript", "System Design"],
-  openTo: ["Freelance", "Remote Roles", "Open Source"],
+
+  expertise: {
+    frontend: ["React", "Next.js"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB"]
+  },
+
+  currentMission: "Building 'Thoughts' — a scalable modern web app",
+
+  growthStack: [
+    "TypeScript",
+    "System Design",
+    "High-performance architectures"
+  ],
+
+  principles: {
+    code: "Clean, maintainable, scalable",
+    ui: "Minimal, intuitive, user-first",
+    performance: "Optimized by default"
+  },
+
+  status: "Available for impactful projects"
 };
-```
 
 ---
 
