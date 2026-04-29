@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bilalahmedkhandev&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=bilalahmedkhandev&theme=radical&&count_private=true&include_all_commits=true" />
 
 </div>
 
