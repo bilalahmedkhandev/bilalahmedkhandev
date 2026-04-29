@@ -1,35 +1,6 @@
 <!-- ==================== HERO / BANNER ==================== -->
 
 <div align="center">
-🖥️ Developer Console
-bilal@dev:~$ npx bilal-profile
-
-> Initializing profile...
-
-const bilal = {
-  title: "Full-Stack MERN Engineer",
-  stack: ["React", "Next.js", "Node.js", "MongoDB"],
-
-  building: {
-    current: "Thoughts — a modern content platform",
-    focus: ["scalability", "performance", "clean architecture"]
-  },
-
-  exploring: ["TypeScript", "System Design", "Advanced Backend Patterns"],
-
-  mindset: [
-    "Ship fast, scale smart",
-    "Design matters as much as code",
-    "Think in systems, not components"
-  ],
-
-  availability: {
-    status: "Open",
-    roles: ["Freelance", "Remote", "Collaboration"]
-  }
-};
-
-> Profile loaded successfully 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Bilal%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
@@ -45,32 +16,12 @@ const bilal = {
 
 ## 🚀 About Me
 
-export const developerProfile = {
-  name: "Bilal Ahmed",
-  role: "MERN Stack Developer",
-
-  expertise: {
-    frontend: ["React", "Next.js"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB"]
-  },
-
-  currentMission: "Building 'Thoughts' — a scalable modern web app",
-
-  growthStack: [
-    "TypeScript",
-    "System Design",
-    "High-performance architectures"
-  ],
-
-  principles: {
-    code: "Clean, maintainable, scalable",
-    ui: "Minimal, intuitive, user-first",
-    performance: "Optimized by default"
-  },
-
-  status: "Available for impactful projects"
-};
+## 🌟 About Me
+- 🔭 I’m currently working on **Thoughts**
+- 🌱 I’m learning **Next.js & TypeScript**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, GitHub Actions**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmedk17/)  
 
 ---
 
