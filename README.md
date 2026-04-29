@@ -83,7 +83,7 @@
 
 <!-- 🔥 Replace this with your own Three.js export (GIF or hosted preview) -->
 
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="80%" />
+<iframe src="https://eyes.nasa.gov/apps/solar-system/#/home" allowfullscreen ></iframe>
 
 </div>
 
