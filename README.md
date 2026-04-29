@@ -14,13 +14,12 @@
 
 ---
 
-## 🚀 About Me
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **Thoughts**
+- 🔭 I’m currently working on **Myself**
 - 🌱 I’m learning **Next.js & TypeScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, GitHub Actions**
+- 💬 Ask me about **JavaScript, React, Node, GitHub Actions**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmedk17/)  
 
 ---
