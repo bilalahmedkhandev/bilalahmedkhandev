@@ -29,17 +29,17 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalahmedkhandev&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalahmedkhandev&show_icons=true&theme=radical&hide_border=true" />
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahmedkhandev&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bilalahmedkhandev&theme=radical&&count_private=true&include_all_commits=true" />
+<img src="https://streak-stats.demolab.com?user=bilalahmedkhandev&theme=radical&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🏆 Achievements
