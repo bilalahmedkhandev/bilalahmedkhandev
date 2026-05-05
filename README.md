@@ -71,6 +71,6 @@
 
 <div align="center">
 
-> I focus on building real-world, production-ready applications — not just tutorials.
+> I focus on building real-world, production-ready applications.
 
 </div>
