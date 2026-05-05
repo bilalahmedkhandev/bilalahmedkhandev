@@ -24,15 +24,6 @@
 
 ---
 
-## 🚀 Featured Work
-
-### 🛋️ Furniro – Furniture E-commerce UI
-
-* Modern responsive UI for an online furniture store
-* Clean product layout and user-focused design
-* Built with scalable frontend structure
-
----
 
 ### 💭 Thoughts – Full Stack MERN App
 
@@ -42,7 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
