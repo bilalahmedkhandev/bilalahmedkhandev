@@ -36,19 +36,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalahmedkhandev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahmedkhandev&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bilalahmedkhandev&theme=radical&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/bilalahmedkhandev?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/bilalahmedkhandev?label=Stars&style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Next.js-black?style=for-the-badge" />
+</p>
 ---
 
 ## 🌐 Connect With Me
