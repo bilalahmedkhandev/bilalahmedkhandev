@@ -44,9 +44,11 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalahmedkhandev&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalahmedkhandev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahmedkhandev&layout=compact&theme=radical&hide_border=true" />
 
@@ -57,7 +59,6 @@
 <img src="https://streak-stats.demolab.com?user=bilalahmedkhandev&theme=radical&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
