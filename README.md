@@ -25,13 +25,7 @@
 ---
 
 
-### 💭 Thoughts – Full Stack MERN App
 
-* Authentication system (JWT-based)
-* Dynamic content & API handling
-* Structured backend with scalable architecture
-
----
 
 ## 🌐 Connect With Me
 
