@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bilal Ahmed Khan
 
-🚀 MERN Stack Developer | ⚛️ React & Next.js Specialist | 🎯 Building Scalable Web Applications
+🚀 Full Stack Developer | ⚛️ React & Next.js Specialist | 🎯 Building Scalable Web Applications
 
 ---
 
